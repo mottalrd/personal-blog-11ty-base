@@ -1,6 +1,6 @@
 ---js
 const eleventyNavigation = {
-	key: "About",
+	key: "Events",
 	order: 4
 };
 ---
