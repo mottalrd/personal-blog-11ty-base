@@ -4,4 +4,5 @@ description: In this blog post I’ll show how to build a simple recommendation 
 date: 2014-08-23
 tags: machinelearning
 ---
-<a href="[/blog/firstpost.md](https://www.dropbox.com/scl/fi/7xw2dpgsq8q0vb7wkconp/blog_1.pdf?rlkey=rmm22v0pguqfpbafpbm7yt498&dl=0)">PDF version</a>
+
+<a href="/blog/firstpost.md">First post</a>
