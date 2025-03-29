@@ -4,7 +4,7 @@ const eleventyNavigation = {
 	order: 4
 };
 ---
-This page collects some of the interesting events that I attended over the years.
+This page collects some of the events that I attended over the years.
 - **2024 October** Product Tank Malaga Meetup. Talks on Fintech trends and Hospitality products design.
 - **2024 May** Blockchain Malaga Meetup. Celebrating the Bitcoin Pizza day and learned about the latest developments in the Blockchain space. I was particularly interested in how smart contracts tech has been evolving and examples of real use cases.
 - **2024 April** UK Cyber Week conference. Learned about all the ways in which organisations cybersecurity can be improved at this well organised vendor conference.
