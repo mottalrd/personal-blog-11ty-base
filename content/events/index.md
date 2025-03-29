@@ -1,7 +1,7 @@
 ---js
 const eleventyNavigation = {
 	key: "Events",
-	order: 4
+	order: 2
 };
 ---
 This page collects some of the events that I attended over the years.
