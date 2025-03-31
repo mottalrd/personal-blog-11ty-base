@@ -12,4 +12,4 @@ I value the customer over the technology, data and scientific experimentation ov
 
 Currently, I’m a Chief Technology Officer at <a href="https://www.creditspring.co.uk">CreditSpring</a> where we are building an innovative interest-free lending product.
 
-When I am not working, I am probably going around with my Vespa or my Brompton. I solve hard problems with gelato.
+When I am not working, I am probably going around with my Brompton bike. I solve hard problems with gelato.
