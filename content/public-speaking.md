@@ -1,6 +1,6 @@
 ---js
 const eleventyNavigation = {
-	key: "Public Speaking",
+	key: "Talks",
 	order: 3
 };
 ---
