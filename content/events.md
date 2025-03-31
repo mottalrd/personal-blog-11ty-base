@@ -22,12 +22,12 @@ This page collects some of the events that I attended over the years.
 - **2022 May** CTO Craft hiring Miniconf.
 - **2022 May** London Ruby User Group.
 - **2022 April** British Computer Society.
-- **2022 March** London CTO roundtable - Architecting teams that scale.
-- **2022 March** British Computer Society - The Future of IT Leadership.
-- **2022 February** British Computer Society Software Testing specialist group (SIGIST).
-- **2021 June** CTO Craft Bytes - How to recruit and retain diverse talent.
-- **2021 May** CTO Craft Bytes - Modes of CTO success and failure.
-- **2021 April** Strategy for Technical Leaders - Bredemeyer Consulting Workshop.
+- **2022 March** London CTO Meetup.
+- **2022 March** British Computer Society Event.
+- **2022 February** British Computer Society Software Testing specialist group event.
+- **2021 June** CTO Craft Bytes Event.
+- **2021 May** CTO Craft Bytes Event.
+- **2021 April** Bredemeyer Consulting Workshop on Technical Strategy.
 - **2021 February** London Ruby User Group.
 - **2020 November** QCon Plus Conference.
 - **2020 July** Early Stage CTOs Meetup.
@@ -36,26 +36,26 @@ This page collects some of the events that I attended over the years.
 - **2020 February** London Data Science Journal Club.
 - **2020 February** London Ruby User Group.
 - **2020 February** ThoughtWorks Tech Radar Event.
-- **2019 November** ThoughtWorks Continuous Delivery in Machine Learning Workshop.
+- **2019 November** ThoughtWorks Machine Learning Workshop.
 - **2019 November** Big Data Conference London.
-- **2019 October** British Computer Society event - Negotiation Skills for IT leaders.
-- **2019 September** The Alan Turing Institute event - We need to talk about statistics.
+- **2019 October** British Computer Society event.
+- **2019 September** The Alan Turing Institute event.
 - **2019 July** Ruby Hacknight event.
 - **2019 July** VIM Meetup London.
 - **2019 June** Clojure night London.
 - **2019 May** µCon Conference London 2019.
 - **2019 April** VIM Meetup London.
-- **2019 April** British Computer Society Event - Difficult Conversations.
-- **2019 March** Elixir Meetup London
-- **2019 March** London School of Economics Mathematics Department Event - Cryptocurrencies, the issue of scalability.
+- **2019 April** British Computer Society Event.
+- **2019 March** Elixir Meetup London.
+- **2019 March** London School of Economics Mathematics Department Event on Cryptocurrencies.
 - **2019 March** Ruby Hacknight.
 - **2019 February** ThoughtWorks Tech Radar presentation.
 - **2019 February** London Ruby User Group.
 - **2018 November** Elixir Meetup London.
 - **2018 October** Ruby Unconference.
-- **2018 August** DDD London - Hands-on Domain Modelling with EventStorming.
+- **2018 August** DDD Meetup London.
 - **2018 July** Brighton Ruby.
-- **2018 July** Imperial College London Event - Finding and Removing Human biases in AI.
+- **2018 July** Imperial College London Event on AI.
 - **2018 May** London Ruby User Grup.
 - **2018 April** DDD Exchange Conference.
 - **2018 April** Ethereum meetup.
@@ -66,12 +66,12 @@ This page collects some of the events that I attended over the years.
 - **2017 December** London Computation Club.
 - **2017 November** Innovate Finance CTO Forum.
 - **2017 November** DDD and Event sourcing workshop.
-- **2017 November** Imperial College Event - Automatic and precise program analysis for concurrent software.
+- **2017 November** Imperial College Event on automatic program analysis.
 - **2017 November** Startupbootcamp Fintech Event.
 - **2017 November** Google Devfest Conference.
 - **2017 October** Hacker news meetup.
-- **2017 September** EuRuKo, the European Ruby Conference.
-- **2017 August** Imperial College Event - Web Data Extraction: A Crash Course.
+- **2017 September** EuRuKo Ruby Conference.
+- **2017 August** Imperial College Event on Web Data Extraction.
 - **2017 August** London Ruby User Group.
 - **2017 July** Brighton Ruby.
 - **2017 May** London Ruby User Group.
@@ -82,17 +82,17 @@ This page collects some of the events that I attended over the years.
 - **2016 November** London Ruby User Group.
 - **2016 November** RubyConf.
 - **2016 October** London Ruby Unconference.
-- **2016 October** ThoughtWorks event - Hack Works.
+- **2016 October** ThoughtWorks event.
 - **2016 October** Hacker News Meetup London.
-- **2016 August** CrowdTuesday London - Blockchain applied to alternative finance.
-- **2016 August** Technical Breakfast Club - Scaling up Rails in a national referendum.
+- **2016 August** CrowdTuesday London on Blockchain.
+- **2016 August** Ruby on Rails Technical Breakfast Club.
 - **2016 August** London Machine Learning Meetup.
 - **2016 July** Summer School on Computational Complex and Social Systems.
-- **2016 June** Google Campus Event - Lead your Startup to Success.
+- **2016 June** Google Campus Event on Startups.
 - **2016 June** PAPIs Machine Learning Workshop.
-- **2016 June** The Financial Services Club: The Chief Executive’s Challenges for the Challenger Banks.
-- **2016 May** The Big O meetup - Real world Haskell and Gaussian Processes in F1.
-- **2016 May** SkillsMatter event - The Future of Programming with Robert C. Martin.
+- **2016 June** The Financial Services Club Event.
+- **2016 May** The Big O meetup.
+- **2016 May** SkillsMatter Programming event with Robert C. Martin.
 - **2016 March** Cassandra Meetup London.
 - **2016 February** Hack Summit.
 - **2016 February** PyData London.
@@ -100,17 +100,17 @@ This page collects some of the events that I attended over the years.
 - **2015 December** Deep Learning Meetup.
 - **2015 November** Fintech Tuesday Meetup.
 - **2015 November** Deep Learning Meetup.
-- **2015 November** The Big O Meetup - Prediction Markets and Contextual Bandits.
+- **2015 November** The Big O Machine Learning Meetup.
 - **2015 October** Graph Databases Meetup.
-- **2015 October** Machine Learning Meetup - Bayesian Networks And The Search For Causality.
+- **2015 October** Machine Learning Meetup.
 - **2015 October** IP EXPO Europe.
-- **2015 September** The London Big-O Meetup.
+- **2015 September** The Big-O Machine Learning Meetup.
 - **2015 June** Google Next Event.
 - **2015 June** Startupbootcamp FastTrack session.
 - **2015 May** IC Tomorrow Financial Technologies Innovation Contest Final.
 - **2015 May** Hacker News Meetup.
-- **2015 April** Queen Mary University Event - Data Science for Trends, Rail Streaming Data & Stateful Dataflows.
-- **2015 April** Machine Learning Meetup: Yoshua Bengio at UCL
+- **2015 April** Queen Mary University Event on Data Science.
+- **2015 April** Machine Learning Meetup with Yoshua Bengio.
 - **2015 April** AWS Summit 2015.
 - **2015 February** Startup Bootcamp Fintechathon.
 - **2015 January** Hacker News Meetup.
@@ -123,12 +123,12 @@ This page collects some of the events that I attended over the years.
 - **2014 February** Amazon Web Services Event.
 - **2013 December** London Ruby User Group.
 - **2013 July** IBM Best Student Recognition Event 2013.
-- **2013 June** Ruby Day 2013 - Milano.
-- **2013 May** MiSE 2013 - San Francisco.
-- **2012 August** UML&FM 2012 - Paris.
-- **2012 June** ICSE 2012 - Zurich.
-- **2012 May** ISR Research Forum - UCI.
-- **2011 September** LASER Summer School, Tools for Practical Software Verification - Elba.
-- **2011 June** SAT/SMT Summer School - Boston
-- **2010 October** MODELS 2010 Conference - Oslo
-- **2010 March** QMC 2010 Summer School - Copenaghen
+- **2013 June** Ruby Day 2013, Milano.
+- **2013 May** MiSE 2013, San Francisco.
+- **2012 August** UML&FM 2012, Paris.
+- **2012 June** ICSE 2012, Zurich.
+- **2012 May** ISR Research Forum, Univerity California Irvine.
+- **2011 September** LASER Summer School on Tools for Practical Software Verification, Elba Italy.
+- **2011 June** SAT/SMT Summer School, Boston
+- **2010 October** MODELS 2010 Conference, Oslo
+- **2010 March** QMC 2010 Summer School, Copenaghen
