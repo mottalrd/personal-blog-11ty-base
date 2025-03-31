@@ -11,11 +11,11 @@ This page collects some of the events that I attended over the years.
 - **2024 January** DTX Financial Services Tech Leaders conference.
 - **2023 July** London Ruby User Group.
 - **2023 June** Forte Group Engineering Leadership event.
-- **2023 June** Zartis international expansion software projects event.
+- **2023 June** Zartis international Engineering Leadership event.
 - **2023 June** Brighton Ruby Conference.
 - **2023 June** London Ruby User Group (LRUG).
 - **2022 November** CTO Craft Conference.
-- **2022 October** Salesforce Unleashing FinTech’s Potential Event.
+- **2022 October** Salesforce FinTech Event.
 - **2022 July** FullStack eXchange Conference.
 - **2022 June** London Ruby User Group.
 - **2022 May** Silicon Valley Product Group event hosted by Prima UK.
@@ -24,7 +24,7 @@ This page collects some of the events that I attended over the years.
 - **2022 April** British Computer Society.
 - **2022 March** London CTO Meetup.
 - **2022 March** British Computer Society Event.
-- **2022 February** British Computer Society Software Testing specialist group event.
+- **2022 February** British Computer Society Software Testing event.
 - **2021 June** CTO Craft Bytes Event.
 - **2021 May** CTO Craft Bytes Event.
 - **2021 April** Bredemeyer Consulting Workshop on Technical Strategy.
@@ -47,7 +47,7 @@ This page collects some of the events that I attended over the years.
 - **2019 April** VIM Meetup London.
 - **2019 April** British Computer Society Event.
 - **2019 March** Elixir Meetup London.
-- **2019 March** London School of Economics Mathematics Department Event on Cryptocurrencies.
+- **2019 March** LSE Mathematics Department Event on Cryptocurrencies.
 - **2019 March** Ruby Hacknight.
 - **2019 February** ThoughtWorks Tech Radar presentation.
 - **2019 February** London Ruby User Group.
@@ -80,7 +80,7 @@ This page collects some of the events that I attended over the years.
 - **2016 December** Startup Bootcamp Demo Day.
 - **2016 December** London Business Analytics Group.
 - **2016 November** London Ruby User Group.
-- **2016 November** RubyConf.
+- **2016 November** RubyConf, Cincinnati.
 - **2016 October** London Ruby Unconference.
 - **2016 October** ThoughtWorks event.
 - **2016 October** Hacker News Meetup London.
