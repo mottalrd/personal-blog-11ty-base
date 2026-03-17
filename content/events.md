@@ -5,6 +5,8 @@ const eleventyNavigation = {
 };
 ---
 This page collects some of the events that I attended over the years.
+- **2026 March** AI for your Customers, AI for your Code - Xitaso Meetup.
+- **2026 February** Malaga AI Meetup.
 - **2025 November** CTO Craft Conference - Finance Edition.
 - **2025 October** Startup Oasis Malaga Meetup.
 - **2025 October** Projector Global Product Design Community Malaga Meetup.
